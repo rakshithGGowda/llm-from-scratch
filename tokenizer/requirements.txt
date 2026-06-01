@@ -1,0 +1,8 @@
+# Tokenizer Project - Requirements
+# No external dependencies required - uses Python standard library only
+
+# Optional: For development and testing
+pytest>=7.0
+black>=22.0
+flake8>=4.0
+
